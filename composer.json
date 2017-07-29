@@ -1,0 +1,23 @@
+{
+  "name": "krushnaghodke/translation-bundle",
+  "type": "symfony-bundle",
+  "description": "Yandex Translate Bundle",
+  "keywords": ["yandex translate"],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.3.2",
+    "symfony/framework-bundle": ">=2.1",
+    "yandex/translate-api": "~1.0"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-0": { "Krushnaghodke\\TranslationBundle": "" }
+  },
+  "target-dir": "Krushnaghodke/TranslationBundle",
+  "authors": [
+    {
+      "name": "Krishna Ghodke",
+      "email": "krushnaghodke90@gmail.com"
+    }
+  ]
+}
