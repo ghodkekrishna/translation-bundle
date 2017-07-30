@@ -2,7 +2,7 @@
   "name": "krushnaghodke/translation-bundle",
   "type": "symfony-bundle",
   "description": "A symfony2 bundle help you to translate using Yandex API",
-  "keywords": ["yandex, translationbundle"],
+  "keywords": ["yandextranslationbundle"],
   "license": "MIT",
   "require": {
     "php": ">=5.3.2",
