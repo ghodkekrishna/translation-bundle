@@ -39,9 +39,7 @@ All that is left to do is to update your ``AppKernel.php`` file, and register th
 
 Update following code in config.yml.
 
-.. code-block :: yml
-
-     # app/config.yml
+    # app/config.yml
     krushnaghodke_yandex_translation:
         api_key: %yandex_api_key%
 
@@ -49,8 +47,6 @@ Update following code in config.yml.
 ## Usage
 
 A little example of how to translate your first string with yandex API, we'll assume that you've set up the configuration correctly:
-
-.. code-block :: php
 
     <?php
 
