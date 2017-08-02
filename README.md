@@ -40,7 +40,7 @@ All that is left to do is to update your ``AppKernel.php`` file, and register th
 Update following code in config.yml.
 
     # app/config.yml
-    krushnaghodke_yandex_translation:
+    krushnaghodke_translation:
         api_key: %yandex_api_key%
 
 
