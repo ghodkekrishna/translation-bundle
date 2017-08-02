@@ -1,4 +1,4 @@
-# TranslationBundle
+# TranslationBundle ![](https://d15hperv2jcnaj.cloudfront.net/assets/v17c227c2f3/bundles/insight/img/medals/with-ribbon/medal-platinum.png)
 
 A bundle to translate string using yandex API.  Currently supports only yandex. Google translation API is in TODO list.
 
