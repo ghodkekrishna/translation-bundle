@@ -1,4 +1,4 @@
 services:
     krushnaghodke.translation.manager:
-        class: Krushnaghodke\TranslationBundle\Manager\TranslateManager
+        class: Krushnaghodke\TranslationBundle\Services\TranslateManager
         arguments: [ '%krushnaghodke_yandex_translation.api_key%' ]

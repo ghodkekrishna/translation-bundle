@@ -1,4 +1,4 @@
-# TranslationBundle ![](https://secure.travis-ci.org/richsage/RMSPushNotificationsBundle.png)
+# TranslationBundle
 
 A bundle to translate string using yandex API.  Currently supports only yandex. Google translation API is in TODO list.
 
