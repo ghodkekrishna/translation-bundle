@@ -1,6 +1,6 @@
 <?php
 
-namespace Krushnaghodke\TranslationBundle\Manager;
+namespace Krushnaghodke\TranslationBundle\Services;
 
 use Yandex\Translate\Translator;
 use Yandex\Translate\Translation;
