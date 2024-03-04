@@ -1,6 +1,6 @@
 # TranslationBundle ![](https://d15hperv2jcnaj.cloudfront.net/assets/v17c227c2f3/bundles/insight/img/medals/with-ribbon/medal-platinum.png)
 
-"A package designed for string translation utilizing the Yandex API. Presently, it exclusively accommodates Yandex translation services. Integration with the Google Translation API is slated for future implementation."
+A package designed for string translation utilizing the Yandex API. Presently, it exclusively accommodates Yandex translation services. Integration with the Google Translation API is slated for future implementation.
 
 ## Installation
 
