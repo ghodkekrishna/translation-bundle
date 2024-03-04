@@ -1,6 +1,6 @@
 # TranslationBundle ![](https://d15hperv2jcnaj.cloudfront.net/assets/v17c227c2f3/bundles/insight/img/medals/with-ribbon/medal-platinum.png)
 
-A bundle to translate string using yandex API.  Currently supports only yandex. Google translation API is in TODO list.
+"A package designed for string translation utilizing the Yandex API. Presently, it exclusively accommodates Yandex translation services. Integration with the Google Translation API is slated for future implementation."
 
 ## Installation
 
@@ -46,7 +46,7 @@ Update following code in config.yml.
 
 ## Usage
 
-A little example of how to translate your first string with yandex API, we'll assume that you've set up the configuration correctly:
+Below is a brief demonstration illustrating the process of translating your initial string using the Yandex API. It is presumed that the configuration has been appropriately established:
 
     <?php
 
